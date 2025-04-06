@@ -168,12 +168,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a2af4046b828160f",
+  "active": "c0d48bcbf2590d49",
   "lastOpenFiles": [
-    "_posts",
+    "assets/css/style.css",
+    "assets/css/style.scss",
+    "assets/css/style.css.txt",
+    "assets/css/New Text Document.txt",
+    "assets/css",
+    "assets/New folder",
+    "assets/images",
+    "assets",
     "New folder",
+    "_posts",
     "images",
-    "pages",
     "README.md",
     "index.md"
   ]

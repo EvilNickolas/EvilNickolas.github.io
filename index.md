@@ -1,6 +1,6 @@
 ---
-layout: page
-title: "Index"
+layout: default
+title: Index
 permalink: /index.html
 ---
 ## Content goes here...
