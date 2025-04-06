@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LayoutTest.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LayoutTest"
+              "title": "README"
             }
           }
         ]
@@ -170,18 +170,28 @@
   },
   "active": "c0d48bcbf2590d49",
   "lastOpenFiles": [
-    "assets/css/style.scss",
-    "index.md",
     "LayoutTest.md",
-    "README.md",
-    "assets/css/style.css",
-    "assets/css/style.css.txt",
-    "assets/css/New Text Document.txt",
-    "assets/css",
-    "assets/New folder",
-    "assets/images",
-    "assets",
-    "New folder",
-    "_posts"
+    "assets/images/nav-bg.gif",
+    "assets/images/hr.gif",
+    "assets/images/bullet.png",
+    "assets/fonts/OpenSans-SemiboldItalic-webfont.woff",
+    "assets/fonts/OpenSans-SemiboldItalic-webfont.ttf",
+    "assets/fonts/OpenSans-SemiboldItalic-webfont.svg",
+    "assets/fonts/OpenSans-SemiboldItalic-webfont.eot",
+    "assets/fonts/OpenSans-Semibold-webfont.woff",
+    "assets/fonts/OpenSans-Semibold-webfont.ttf",
+    "assets/fonts/OpenSans-Semibold-webfont.svg",
+    "assets/fonts/OpenSans-Semibold-webfont.eot",
+    "assets/fonts/OpenSans-Regular-webfont.woff",
+    "assets/fonts/OpenSans-Regular-webfont.ttf",
+    "assets/fonts/OpenSans-Regular-webfont.svg",
+    "assets/fonts/OpenSans-Regular-webfont.eot",
+    "assets/fonts/OpenSans-LightItalic-webfont.woff",
+    "assets/fonts/OpenSans-LightItalic-webfont.svg",
+    "assets/fonts/OpenSans-Light-webfont.svg",
+    "assets/fonts/OpenSans-Italic-webfont.svg",
+    "assets/fonts/OpenSans-BoldItalic-webfont.svg",
+    "index.md",
+    "README.md"
   ]
 }
