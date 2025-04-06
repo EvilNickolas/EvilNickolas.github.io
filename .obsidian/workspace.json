@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "README"
             }
           }
         ]
@@ -168,8 +168,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c0d48bcbf2590d49",
+  "active": "a2af4046b828160f",
   "lastOpenFiles": [
+    "LayoutTest.md",
+    "index.md",
+    "README.md",
     "assets/css/style.css",
     "assets/css/style.scss",
     "assets/css/style.css.txt",
@@ -179,9 +182,6 @@
     "assets/images",
     "assets",
     "New folder",
-    "_posts",
-    "images",
-    "README.md",
-    "index.md"
+    "_posts"
   ]
 }
