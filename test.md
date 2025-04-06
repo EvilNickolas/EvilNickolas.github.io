@@ -1,7 +1,7 @@
 ---
 layout: default
-permalink: /test.html
 title: Layout test
+permalink: /test.html
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
